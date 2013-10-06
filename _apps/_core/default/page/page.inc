@@ -1,7 +1,13 @@
 <?php
 
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * carina erp v.1.03b
+ * kardesyazilim.net istanbulmobile.net
+ * Kardeş Yazılım ve Bilişim Hizmetleri
+ * labs@kardesyazilim.net
+ * labs.kardesyazilim.net
+ * Oct 7, 2013 - 2:41:08 AM  / file name: [page] (page.inc)
+ * UTF-8 - markado - default
+ * help doc : page - (page.inc)
  */
 ?>

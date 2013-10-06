@@ -1,21 +1,13 @@
 <?php
 
-$s =[];
-//////modul    gruop       kişi      status  version
-// non-random 
-// 
-// id mid m  g   k  s  v pid
-// select r
-// insert w
-// update r+w
-// delete 
-// user/group
-// http://www.dartmouth.edu/~rc/help/faq/permissions.html
-
-
-
-$s = ["read"=>""];
-
-
-
+/*
+ * carina erp v.1.03b
+ * kardesyazilim.net istanbulmobile.net
+ * Kardeş Yazılım ve Bilişim Hizmetleri
+ * labs@kardesyazilim.net
+ * labs.kardesyazilim.net
+ * Oct 7, 2013 - 2:39:29 AM  / file name: [auth] (auth.inc)
+ * UTF-8 - markado - default
+ * help doc : auth - (auth.inc)
+ */
 ?>

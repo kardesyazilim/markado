@@ -392,6 +392,8 @@
 | 4 | dir | {#DIR#} | NULL | {#FOLDER#} | Aplication Core {#MODULEFOLDER#} Folder | 3 | _www | _www | 755 |
 | 5 | file | {#FILE#} | .inc | {#FILE#} | {#MODULEFILE#} | 3 | _www | _www | 644 |
 
+----
+
 
 >>>>**_page_**: 1 -   **_pivot_** : [(0 - {#end_sum_privot#}) / 3] (mod10)  -  **_childID_** = [v.1.0.1.0.1](./v.1.0.1.0.1.md) - **_deptID_** : [labs](http://labs.kardesyazilim.net , "Labs Bro Bro Yaylalar Developer") - **_helpSKU_** : _~~SYS~~_
 

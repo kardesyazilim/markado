@@ -24,6 +24,8 @@ crete project netbeans
 2- project template
 
 create git hub 
+https://github.com/kardesyazilim/markado.git
+
 
 
 

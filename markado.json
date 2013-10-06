@@ -1,3 +1,25 @@
 {
-    "company": "polemarch"
+    "project": "markado",
+    "company":"Markado Ltd.Şti",
+    "c_www":"markado.com",
+    "c_phone":"216",
+    "c_mail":"info@markado.com",
+    "c_user":"Kadircan Erkıralp",
+    "license_key":"",
+    "apps_name":"Carina",
+    "apps_version":"v1.3b",
+    "apps_require":{
+        "type":"demo",
+        "cluster":"false",
+        "loadbalancer":"false",
+        "backup_jobs":"false",
+        "rpc":"false",
+        "developer":{
+        "debug":"false",
+        "mod":"false",
+        "render":"false"
+        }
+
+    }
+    
 }
