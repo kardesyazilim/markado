@@ -8,8 +8,4 @@ require_once '_apps/boot.inc';
 
 
 
-
-
-
-
 ?>
