@@ -3,3 +3,5 @@ var/*
 nbproject/*
 .DS_Store
 !empty
+vpproject
+_docs/diagram/*
