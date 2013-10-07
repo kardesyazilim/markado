@@ -1,6 +1,6 @@
 <?php
 
-	sybase_min_server_severity(20);
+	//sybase_min_server_severity(20);
 
 	/**********************************************************************
 	*  Author: Muhammad Iyas (iyasilias@gmail.com)
@@ -27,7 +27,7 @@
 	*  ezSQL Database specific class - sybase
 	*/
 
-	if ( ! function_exists ('sybase_connect') ) die('<b>Fatal Error:</b> ezSQL_sybase requires ntwdblib.dll to be present in your winowds\system32 folder. Also enable sybase extenstion in PHP.ini file ');
+	//if ( ! function_exists ('sybase_connect') ) die('<b>Fatal Error:</b> ezSQL_sybase requires ntwdblib.dll to be present in your winowds\system32 folder. Also enable sybase extenstion in PHP.ini file ');
 	if ( ! class_exists ('ezSQLcore') ) die('<b>Fatal Error:</b> ezSQL_sybase requires ezSQLcore (ez_sql_core.php) to be included/loaded before it can be used');
 
 	class ezSQL_sybase extends ezSQLcore

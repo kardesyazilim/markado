@@ -28,7 +28,8 @@ https://github.com/kardesyazilim/markado.git
 
 
 
-
+php db connection library repair ezsql
+sudo find . -name ".DS_Store" -print0 | xargs -0 rm
 
 
 

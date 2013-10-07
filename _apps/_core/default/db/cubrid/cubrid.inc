@@ -22,7 +22,7 @@
 	*  ezSQL Database specific class - CUBRID
 	*/
 
-	if ( ! function_exists ('cubrid_connect') ) die('<b>Fatal Error:</b> ezSQL_cubrid requires CUBRID PHP Driver to be compiled and or linked in to the PHP engine');
+	//if ( ! function_exists ('cubrid_connect') ) die('<b>Fatal Error:</b> ezSQL_cubrid requires CUBRID PHP Driver to be compiled and or linked in to the PHP engine');
 	if ( ! class_exists ('ezSQLcore') ) die('<b>Fatal Error:</b> ezSQL_cubrid requires ezSQLcore (ez_sql_core.php) to be included/loaded before it can be used');
 
 	class ezSQL_cubrid extends ezSQLcore

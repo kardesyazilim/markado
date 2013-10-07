@@ -71,7 +71,7 @@ class cBoot {
                                                                             require_once $this->c . $entry . DS . $module . DS . $moduleF . DS . $endFile;
                                                                         } else {
                                                                             //başka tip dosya
-                                                                            echo 'Başka Tip Dosya';
+                                                                           echo 'Başka Tip Dosya';
                                                                         }
                                                                     } else {
                                                                         echo 'folder olmaz';
