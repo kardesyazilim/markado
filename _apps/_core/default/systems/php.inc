@@ -10,4 +10,19 @@
  * UTF-8 - markado - default
  * help doc : php - (php.inc)
  */
+
+class cPHP {
+    
+    function __construct() {
+        $this->mode();
+    }
+
+    private function mode() {
+        @ini_set("display_errors", display_errors);
+        @ini_set('error_reporting', E_ALL);
+        date_default_timezone_set(TIMEZONE);
+    }
+
+}
+
 ?>

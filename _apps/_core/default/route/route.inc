@@ -10,4 +10,21 @@
  * UTF-8 - markado - default
  * help doc : route - (route.inc)
  */
+
+class cRoute {
+    private $q;
+
+    function __construct() {
+        $this->url();
+    }
+
+    function url() {
+        $this->q = isset($_GET ['q']) ? $_GET ['q'] : null;
+        $this->q = rtrim($this->q, '/');
+        $this->q = explode('/', $this->q);
+        print_r($this->q);
+    }
+
+}
+
 ?>

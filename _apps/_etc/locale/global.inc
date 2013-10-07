@@ -38,4 +38,8 @@ define('FRONTEND',USR.'frontend'.DS);
 define('MOBIL',USR.'mobil'.DS);
 define('EXT',USR.'ext'.DS);
 
+
+define('TIMEZONE', 'Europe/Istanbul');
+
+define('display_errors',1);
 ?>

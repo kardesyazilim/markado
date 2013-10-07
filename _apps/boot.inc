@@ -134,17 +134,15 @@ class cBoot {
 
 }
 
-header('Content-type: text/html');
 
-@ini_set("display_errors", 1);
-@ini_set('error_reporting', E_ALL);
-date_default_timezone_set('Europe/Istanbul');
+
+
 $b = new cBoot;
+$php  = new cPHP;
+$r = new cRoute;
 
 
-$q = isset($_GET ['q']) ? $_GET ['q'] : null;
-$q = rtrim($q, '/');
-$q = explode('/', $q);
+
 define('END', microtime(true));
 
 

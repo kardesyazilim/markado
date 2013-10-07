@@ -6,12 +6,8 @@
  * Kardeş Yazılım ve Bilişim Hizmetleri
  * labs@kardesyazilim.net
  * labs.kardesyazilim.net
- * Oct 7, 2013 - 2:33:44 AM  / file name: [systems] (system.inc)
+ * Oct 7, 2013 - 6:58:21 PM  / file name: [cron] (cron.php)
  * UTF-8 - markado - default
- * help doc : systems - (systems.inc)
+ * help doc : cron - (cron.php)
  */
-
-
-
-
 ?>
