@@ -1,4 +1,5 @@
 <?php
+
 /*
  * carina erp v.1.03b
  * kardesyazilim.net istanbulmobile.net
@@ -9,6 +10,4 @@
  * UTF-8 - markado - default
  * help doc : global - (global.inc)
  */
-
-
 ?>
