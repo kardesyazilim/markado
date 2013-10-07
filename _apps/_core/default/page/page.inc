@@ -10,4 +10,14 @@
  * UTF-8 - markado - default
  * help doc : page - (page.inc)
  */
+
+
+class cPage{
+    function __construct() {
+        
+    }
+    function s(){
+        echo 'adsf';
+    }
+}
 ?>

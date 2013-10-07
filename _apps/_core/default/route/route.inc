@@ -18,11 +18,11 @@ class cRoute {
         $this->url();
     }
 
-    function url() {
+    private function url() {
         $this->q = isset($_GET ['q']) ? $_GET ['q'] : null;
         $this->q = rtrim($this->q, '/');
         $this->q = explode('/', $this->q);
-        print_r($this->q);
+    
     }
 
 }
