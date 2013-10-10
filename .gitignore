@@ -5,3 +5,5 @@ nbproject/*
 !empty
 vpproject
 _docs/diagram/*
+google-api-php-client/*
+bro/*

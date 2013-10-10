@@ -10,4 +10,3 @@
  * UTF-8 - markado - default
  * help doc : cron - (cron.php)
  */
-?>
