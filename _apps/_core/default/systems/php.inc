@@ -18,9 +18,14 @@ class cPHP {
     }
 
     private function mode() {
+        //session_name('labs.kardesyazilim.net');
+        session_start();
+        ob_start();
+        
         @ini_set("display_errors", display_errors);
         @ini_set('error_reporting', E_ALL);
         date_default_timezone_set(TIMEZONE);
+ 
     }
 
 }

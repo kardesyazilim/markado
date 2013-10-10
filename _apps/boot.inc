@@ -19,7 +19,9 @@ class cBoot {
     private $c;
 
     function __construct() {
+      
         $this->core();
+          echo 'fasf';
     }
 
     private function core() {
@@ -121,6 +123,7 @@ class cBoot {
                             }//2.module while
                             closedir($handleSpec);
                         }
+                   
                     }
                 }
             }//1.while
@@ -129,6 +132,7 @@ class cBoot {
             }//2.while
             //handle closerdir
             closedir($handle);
+       
         }
     }
 

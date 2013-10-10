@@ -22,8 +22,12 @@ class cRoute {
         $this->q = isset($_GET ['q']) ? $_GET ['q'] : null;
         $this->q = rtrim($this->q, '/');
         $this->q = explode('/', $this->q);
-    
+        print_r($this->q);
+            $d = new cRender();
+
     }
+    
+    //module include
 
 }
 
