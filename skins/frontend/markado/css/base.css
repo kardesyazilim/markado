@@ -202,4 +202,48 @@ a{
 .leftmenu li:hover,.leftmenu li a:hover{
     background-color: #999;
 }
+.catinfo{
+    position: relative;
+        margin: 5px 0 5px 0 ;
+        background-color: #ed3431;
+        text-align: center;
+        color: #fff;
+        font-family:'HelveticaNeue-Bold',Sans-Serif;
+        border: 4px solid #ed3431;
+}
 
+.catinfo:after, .catinfo:before {
+	top: 100%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.catinfo:after {
+	border-color: rgba(237, 52, 49, 0);
+	border-top-color: #ed3431;
+	border-width: 20px;
+	left: 50%;
+	margin-left: -20px;
+}
+.catinfo:before {
+	border-color: rgba(237, 52, 49, 0);
+	border-top-color: #ed3431;
+	border-width: 20px;
+	left: 50%;
+	margin-left: -20px;
+}
+#footer .container .row {
+    background-image: url('../img/footer-bg.png');
+    background-repeat: space;
+    background-color: #e4e4e4;
+    min-height: 360px;
+    margin: 0;
+    padding: 10px;
+    background-position-x: 0px;
+    background-position-y: 0px;
+    border-top: 1px solid #999;
+}
