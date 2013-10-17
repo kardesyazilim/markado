@@ -1,0 +1,49 @@
+CACHE MANIFEST
+
+# version 2011-07-012 06:06:44 v1
+
+CACHE:
+
+# html files
+
+bro.html
+
+# css files
+//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css
+bro/bro.css
+
+
+html5shiv.js
+respond.min.js
+//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js
+//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js
+bro/main.js
+# images
+bro/leo.png
+bro/c.png
+favicon.ico
+bro/slide/1.jpg
+bro/slide/2.jpg
+bro/slide/3.jpg
+bro/slide/4.jpg
+bro/slide/5.jpg
+bro/slide/6.jpg
+bro/slide/7.jpg
+bro/slide/8.jpg
+bro/slide/9.jpg
+bro/slide/10.jpg
+bro/slide/11.jpg
+bro/slide/12.jpg
+bro/slide/13.jpg
+bro/slide/14.jpg
+bro/slide/15.jpg
+bro/slide/16.jpg
+
+
+
+FALLBACK:
+/ /bro.html
+
+NETWORK:
+http://*
+https://*
