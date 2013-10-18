@@ -247,3 +247,14 @@ a{
     background-position-y: 0px;
     border-top: 1px solid #999;
 }
+.footerMenu{
+    list-style: none;
+    
+}
+.footerMenu li:after{
+   border: 1px solid red;
+}
+.footerMenu li a{
+    color:#898989;
+    font-size: 1.4em;
+}
